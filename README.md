@@ -1,5 +1,10 @@
 # Tip & Tricks
 
-### Web Development 
-* [Generate SVG icons fonts](https://www.youtube.com/watch?v=8oQCkxfK5Ho)
+###  Web Development 
+##### General
+  * [Generate SVG icons fonts](https://www.youtube.com/watch?v=8oQCkxfK5Ho)
+    
+##### JavaScript
+  * [AngularJS-Learning](https://github.com/jmcunningham/AngularJS-Learning)
+  * [Backbone tutorials](https://github.com/jashkenas/backbone/wiki/Tutorials,-blog-posts-and-example-sites)
 
